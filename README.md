@@ -1,5 +1,5 @@
 # Easy-Event-Extraction
-A fast Chinese event extraction program 一個快速實現事件抽取的程式，繁體中文與簡體中文都支持。
+A fast Chinese event extraction program 一個快速實現事件抽取的程式，繁體中文與簡體中文都支持
 
 ## 實現原理
   0. 若未分詞，用jieba分詞(速度快是優勢)
